@@ -3,7 +3,7 @@
   {
     "test": "baidu.com",
     "appendQuery": {
-      "test": "xxx"
+      "test": "123"
     }
   }
 ]
