@@ -1,6 +1,10 @@
 
 [
   {
+    "test": "qq.com",
+    "appendPath": "test",
+  },
+  {
     "test": "baidu.com",
     "appendQuery": [
       {
