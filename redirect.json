@@ -2,7 +2,7 @@
 [
   {
     "test": "baidu.com",
-    "appendPath": "test"
+    "appendPath": "test",
     "appendQuery": {
       "test": "123"
     }
