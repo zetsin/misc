@@ -3,8 +3,11 @@
   {
     "test": "baidu.com",
     "appendPath": "test",
-    "appendQuery": {
-      "test": "123"
-    }
+    "appendQuery": [
+      {
+        "key": "test",
+        "value": "123"
+      }
+    ]
   }
 ]
