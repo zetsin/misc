@@ -1,0 +1,9 @@
+
+[
+  {
+    "test": "baidu.com",
+    "appendQuery": {
+      "test": "xxx"
+    }
+  }
+]
